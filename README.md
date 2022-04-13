@@ -15,6 +15,6 @@ Objective : Our main Goal is tp provide with suffiecient proofes and visuals whi
             we only took the data NUMBER OF PEOPLE who had positive attitude and took the treatment for different countries.
             
             
-  BAR CHART :
+  BAR CHART:
   this chart shows the number of people who has positive attitude towards mental health illness , which caries by geographical location.
  
